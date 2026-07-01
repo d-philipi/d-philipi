@@ -48,7 +48,7 @@ I am a Software Engineering deeply focused on **AI Engineering** and **AI Archit
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
+  <img src="./github-metrics.svg" width="70%" alt="GitHub Metrics" />
 </div>
 
 <br/>
