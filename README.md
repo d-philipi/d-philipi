@@ -48,20 +48,13 @@ I am a Software Engineering deeply focused on **AI Engineering** and **AI Archit
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=d-philipi&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Philipi github stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-philipi&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Daniel Philipi top languages" />
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Metrics" />
 </div>
 
 <br/>
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=d-philipi&theme=gotham" alt="Github activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d-philipi&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
